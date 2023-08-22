@@ -1,0 +1,15 @@
+
+
+.category_list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+.category_item {
+  text-align: center;
+}
+
+.category_link {
+  
+}

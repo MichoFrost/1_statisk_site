@@ -1,0 +1,21 @@
+
+
+.navbar {
+  
+}
+
+.navbar_list {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar_item {
+
+}
+
+.navbar_link {
+  color: black;
+  font-size: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
