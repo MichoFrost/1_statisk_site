@@ -1,0 +1,41 @@
+
+
+.productSite_info {
+  margin: 0 auto;
+  margin-top: 2em;
+  margin-bottom: 4em;
+  width: 70%;
+  border: black solid 2px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+
+.productSite_heading {
+ 
+}
+
+.productSite_image {
+  width: 400px;
+  /* margin: 0 auto; */
+}
+
+.productSite_productType {
+ 
+}
+
+.productSite_size {
+ 
+}
+
+.productSite_price {
+ 
+}
+
+.productSite_sale {
+
+}
+
+.productSite_soldout {
+
+}

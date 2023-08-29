@@ -1,15 +1,24 @@
 
 
 .category_list {
+  width: 50%;
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  /* grid-template-rows: 1fr 1fr 1fr; */
+  gap: 5em;
+  margin-top: 2em;
+
 }
 
 .category_item {
   text-align: center;
+  /* border: 2px black solid; */
 }
 
 .category_link {
-  
+  padding: 1em 2em;
+  background-color: black;
+  color: white;
+  border: blue solid 2px;
 }
